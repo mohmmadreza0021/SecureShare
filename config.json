@@ -1,0 +1,11 @@
+{
+  "port": 8443,
+  "share_dir": "./shared_files",
+  "cert_file": "./certs/server.crt",
+  "key_file": "./certs/server.key",
+  "max_login_attempts": 5,
+  "lockout_time": 300,
+  "session_timeout": 3600,
+  "max_file_size": 2147483648,
+  "password_hash": "7da1983ea489520a6c0a0ea0235acea1706eb1b1f23231613b46b9b49f99465d"
+}
